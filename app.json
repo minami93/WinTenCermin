@@ -1,0 +1,10 @@
+{
+  "name": "Beyan",
+  "description": "Beyan Docker",
+  "keywords": ["Docker"],
+  "env": {
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
